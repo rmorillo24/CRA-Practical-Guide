@@ -8,6 +8,8 @@ The specific obligations for manufacturers to draw up this declaration are detai
 
 It's important to note that while all products require this declaration, the process for demonstrating conformity must be done either by a third party or internally, depending on the product category::
 
-**Default Category Products** – Manufacturers can perform a self-assessment to ensure compliance.
+### Default Category Products
+Manufacturers can perform a self-assessment to ensure compliance.
 
-**Important and Critical Products** – These categories may necessitate third-party assessments or certifications due to their higher cybersecurity risks.
+### Important and Critical Products
+These categories may necessitate third-party assessments or certifications due to their higher cybersecurity risks.

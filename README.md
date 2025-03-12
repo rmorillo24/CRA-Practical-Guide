@@ -3,20 +3,17 @@
 ## Building and Maintaining Secure Solutions to comply with EU’s Cyber Resilience Act 
 
 
-## Cyber Resilience Act
-
 **The CRA introduces new security and lifecycle management requirements for IoT and edge devices.**
 
-**If you're developing, deploying, or managing connected devices in the EU, compliance isn't optional—it's a mandatory step to ensure product security, market access, and regulatory alignment. Not complying can result in high fines.**
-
-
+If you're developing, deploying, or managing connected devices in the EU, compliance isn't optional—it's a mandatory step to ensure product security, market access, and regulatory alignment. Not complying can result in high fines.
 
 This document is based on the official regulation you can get from the [official CRA site](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R2847) 
 
-The regulation is extensive, thorough, and evolving. This document does not intend to capture every detail but to provide high level practical advice. Please refer to the latest EU's regulation for updated information about how it affects your product.
+> The regulation is extensive, thorough, and evolving. This documentation does not intend to capture every detail but to provide high level practical advice. Please refer to the latest EU's regulation for updated information about how it affects your product.
 
-[Important dates](important_dates.md)
-[Key Points About the Cyber Resilience Act](key_points_about_CRA.md)
+Check here the [Important dates](important_dates.md) to have into account
+
+Read the [Key Points About the Cyber Resilience Act](key_points_about_CRA.md) for a very quick summary
 
 ## Hands-on the CRA 
 

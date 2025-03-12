@@ -12,11 +12,11 @@ Products must be made available without known exploitable vulnerabilities. Compa
 ### Supply Chain & Compliance Accountability
 Businesses are responsible for ensuring third-party components and vendors meet cybersecurity requirements, reducing risks from insecure supply chains.
 
-## Market Surveillance
+### Market Surveillance
 The EU surveillance authorities will actively monitor products with digital elements and assess if they comply with the regulation. ([Article 52](https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng#art_52))
 
-## Product Recalls
+### Product Recalls
 If a product fails to meet cybersecurity requirements, market surveillance authorities can require you to take corrective actions, withdraw the product from the market or issue a full product recall. ([Recital 111](https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng#rct_111))
 
-## Penalties for Non-Compliance
+### Penalties for Non-Compliance
 Companies that fail to comply can face fines of up to €15 million or 2.5% of global annual revenue, making security a business-critical obligation. ([Recital 64](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R2847#art_64)) 
