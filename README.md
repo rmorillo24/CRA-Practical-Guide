@@ -15,8 +15,6 @@ Check here the [Important dates](docs/important_dates.md) to have into account
 
 Read the [Key Points About the Cyber Resilience Act](docs/key_points_about_CRA.md) for a very quick summary
 
-Decide if you are affected by CRA.
-
 ## Hands-on the CRA 
 
 At a high level, these steps outline the process you’ll need to follow. For each step, we provide a list of actionable items that serve as a checklist.
