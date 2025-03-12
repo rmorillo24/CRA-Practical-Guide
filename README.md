@@ -21,15 +21,15 @@ At a high level, these steps outline the process you’ll need to follow. For ea
 
 This guide offers a general overview to help you grasp the core principles of CRA compliance.
 
-1. [Map your CRA responsibilities](map_your_CRA_responsibilities.md)
-2. [Classify your product](classify_your_product.md)
-3. [Conduct a security risk assessment](cybersecurity_risk_assessment.md)
-4. [Implement secure software development practices](implement_secure_development_practices.md)
-5. [Set up a robust update and patch management system](update_and_patch_management_system.md)
-6. [Strengthen supply chain security](supply_chain_security.md)
-7. [Prepare for compliance documentation & audits](compliance_documentation_and_audits.md)
-8. [Declaration of conformity](declaration_of_conformity.md)
-9. [Plan for product lifecycle & EOL security](product_lifecycle_and_EOL.md)
+1. [Map your CRA responsibilities](docs/map_your_CRA_responsibilities.md)
+2. [Classify your product](docs/classify_your_product.md)
+3. [Conduct a security risk assessment](docs/cybersecurity_risk_assessment.md)
+4. [Implement secure software development practices](docs/implement_secure_development_practices.md)
+5. [Set up a robust update and patch management system](docs/update_and_patch_management_system.md)
+6. [Strengthen supply chain security](docs/supply_chain_security.md)
+7. [Prepare for compliance documentation & audits](docs/compliance_documentation_and_audits.md)
+8. [Declaration of conformity](docs/declaration_of_conformity.md)
+9. [Plan for product lifecycle & EOL security](docs/product_lifecycle_and_EOL.md)
 
 *Additionally, we’ve highlighted details on how Balena addresses relevant aspects, offering practical solutions and tools to support your compliance journey.*
 
