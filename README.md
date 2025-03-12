@@ -11,9 +11,9 @@ This document is based on the official regulation you can get from the [official
 
 > The regulation is extensive, thorough, and evolving. This documentation does not intend to capture every detail but to provide high level practical advice. Please refer to the latest EU's regulation for updated information about how it affects your product.
 
-Check here the [Important dates](important_dates.md) to have into account
+Check here the [Important dates](docs/important_dates.md) to have into account
 
-Read the [Key Points About the Cyber Resilience Act](key_points_about_CRA.md) for a very quick summary
+Read the [Key Points About the Cyber Resilience Act](docs/key_points_about_CRA.md) for a very quick summary
 
 ## Hands-on the CRA 
 
