@@ -6,7 +6,7 @@ If you ship a product, you must provide free security updates for its entire lif
 CRA insists on the ability to perform risk mitigation on running devices. You’ll need to enable secure, remote updates that ensure that all devices are patched without manual intervention.  
 *Balena provides a full Device Management suite for patching and updates.*
 
-Automate vulnerability tracking
+### Automate vulnerability tracking
 Use tools to detect outdated software and CVEs (Common Vulnerabilities and Exposures).  
 *Balena will provide CVEs for our images in the future, so you will just need to monitor your containers' libraries and code*
 
